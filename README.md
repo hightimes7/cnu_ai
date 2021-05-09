@@ -1,1 +1,1 @@
-AI studies of CNU AI class
+AI studies from CNU AI class
