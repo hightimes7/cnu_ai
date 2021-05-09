@@ -1,2 +1,1 @@
-# cnu_ai
-CNU - AI class
+AI studies of CNU AI class
